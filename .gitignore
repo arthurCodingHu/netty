@@ -1,0 +1,12 @@
+/target/
+/target
+.classpath
+.project
+.settings
+.mdb
+.ldb
+.sln
+/.idea/
+*.iml
+*.class
+*/target/
